@@ -1,0 +1,19 @@
+{
+  "name": "playwright_tests",
+  "version": "1.0.0",
+  "description": "Playwrite testing training",
+  "keywords": [
+    "playwright",
+    "playwright_tests",
+    "playwright-mcp"
+  ],
+  "license": "ISC",
+  "author": "Nonte",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {},
+  "devDependencies": {
+    "@playwright/test": "^1.62.1",
+    "@types/node": "^26.3.0"
+  }
+}
