@@ -24,3 +24,6 @@ Inside that directory, you can run several commands:
 
 ## to be able to view the test/ open the browser
     npx playwright test --headed
+
+## to run tests using the package.json file- umder "Script" section
+    i.e "npm run demo"
