@@ -27,3 +27,7 @@ Inside that directory, you can run several commands:
 
 ## to run tests using the package.json file- umder "Script" section
     i.e "npm run demo"
+
+## using codegen commands
+npx playwright codegen --help
+npx playwright codegen
