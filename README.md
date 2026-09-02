@@ -30,4 +30,4 @@ Inside that directory, you can run several commands:
 
 ## using codegen commands
 npx playwright codegen --help
-npx playwright codegen
+npx playwright codegen url (to use codegen through the terminal/ CLI)

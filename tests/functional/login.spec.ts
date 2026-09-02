@@ -1,5 +1,6 @@
 import { test, expect } from "@playwright/test";
 
+//Use test.describe to group tests
 test.describe("Login functionality", () => {
 
   //hook to run before all tests in this login function
